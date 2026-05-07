@@ -1,2 +1,4 @@
 php/vendor/
 php/.env
+
+go/.env
